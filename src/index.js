@@ -1,0 +1,14 @@
+export * from './Api/SupaseBase';
+export * from './Api/UseUsuarios';
+export { default as App } from './App';
+export { default as Fila1 } from './Components/Fila1';
+export { default as Fila3 } from './Components/Fila3';
+export { default as FilaHome } from './Components/FilaHome';
+export { default as Header } from './Components/Header';
+export { default as Item } from './Components/Item';
+export { default as Global } from './Contexts/Global';
+export * from './Contexts/GlobalSupabase';
+export { default as UseGlobal } from './Contexts/UseGlobal';
+export { default as Custom } from './CustomHooks/Custom';
+export { default as objetivos } from './DataStatic/objetivos';
+export * from './main';
